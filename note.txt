@@ -1,0 +1,2 @@
+- Move to the mongodb folder and then start the MongoDB server by typing the following at the promp
+- mongod --dbpath=data --bind_ip 127.0.0.1
